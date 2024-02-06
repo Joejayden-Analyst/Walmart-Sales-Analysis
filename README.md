@@ -103,6 +103,52 @@ Over a third of the payment was cash $112k , followed by e-wallet $110k and last
 ![](RevenueByPaymentMethod.png)
 
 
+### Revenue by Gender
+
+The revenue made from the female gender was $168k and the male gender was $155k this shows that mode gender patronage are high since the difference between the revenue generated are very close
+
+![](RevenueByGender.png)
+
+
+Profit by Customer Type 
+
+50,2% of the profit made came from the members who probably has a subcription to one or more of their products, while 49.8% of the profit were made from sales to visitors.  
+
+
+![](ProfitByCustomerType.png)
+
+
+## Conclusions And Recommendations
+
+### Conduct a detailed cost analysis to identify areas where costs can be reduced without compromising product quality or customer experience.
+ Negotiate better deals with suppliers to lower the cost of goods sold (COGS). Optimize inventory management to reduce carrying costs.
+
+### Reevaluate your pricing strategy. Consider whether you can increase prices without losing a significant number of customers. Implement dynamic pricing if applicable. Offer bundled packages to increase the average order value.
+
+### Segment your customer base to identify high-value customers who are more profitable. Implement personalized marketing and product recommendations to increase customer retention and cross-selling.
+
+### Streamline your supply chain to reduce shipping and fulfillment costs. Explore options like dropshipping or outsourcing to lower operational expenses.
+
+### Invest in data analytics and business intelligence tools to gain deeper insights into customer behavior, sales trends, and cost structures. Use data to make informed decisions about inventory, marketing, and product offerings.
+
+### Diversify your product range to attract new customer segments and increase cross-selling opportunities. Consider private-label products with higher profit margins
+
+### Focus on customer retention to reduce customer acquisition costs. Implement a loyalty program to incentivize repeat purchases.
+
+### Optimize your marketing campaigns to ensure a higher return on investment (ROI). Shift budget towards high-performing marketing channels and campaigns.
+
+### Review your advertising spend and allocate resources to digital advertising channels with a proven track record of generating sales Continuous Improvement:
+
+![](Dashboard.png)
+
+
+
+
+
+
+## THank You
+
+
 
 
 
